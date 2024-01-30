@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🕸️, I'm Jagan P </h1>
+<h1 align="center">Hi🕸️, I'm Jagan P </h1>
 <h3 align="center">A passionate student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148">
 
