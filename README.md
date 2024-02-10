@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ft_jagan" target="blank"><img src="https://img.shields.io/twitter/follow/ft_jagan?logo=twitter&style=for-the-badge" alt="ft_jagan" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+-  I’m currently learning **React js**
 
 - 💬 Ask me about **Javascript**
 
