@@ -8,8 +8,6 @@
 
 -  I’m currently learning **React js**
 
-- 💬 Ask me about **Javascript**
-
 - 📫 How to reach me **jaganjnofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
